@@ -1,4 +1,4 @@
-cp vimrc ~/
+cp vimrc ~/.vimrc
 echo "Installing Vim"
 sudo apt install vim
 echo "Installing Git"
