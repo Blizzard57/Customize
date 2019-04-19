@@ -8,4 +8,5 @@ cd polybar
 echo "Transfering my config"
 cp config ~/.config/polybar
 echo "Now put it as autostart to have it everytime"
+sudo apt autoremove
 polybar example
